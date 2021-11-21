@@ -54,7 +54,7 @@ training images is 1139 test image is 150
 
 ## 4. Generator and Discriminator loss curve
 
-<img src="https://user-images.githubusercontent.com/48679574/139297260-ae4b1291-9538-4874-8b0a-8e5f6ace3baa.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/139297265-17c81eaf-112a-4c25-aeb1-c37487cdf070.png" width="400px">
+<img src="https://user-images.githubusercontent.com/48679574/142752865-7a962b27-5c90-4d62-a44c-d36d3328e9b9.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/142752867-4d6a39bd-b919-4bdb-8ece-e5b1b12ea639.png" width="400px">
 
 
 # References
