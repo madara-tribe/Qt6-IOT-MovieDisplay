@@ -12,7 +12,10 @@
 
 # abstract about cycleGAN
 cycle GAN mainly training horse to zebra and zebra to horse.
-<img src="https://user-images.githubusercontent.com/48679574/139290811-74376ccc-6e25-42a8-9cf9-834dc9fdfda0.png" width="650px">
+<img src="https://user-images.githubusercontent.com/48679574/142752809-9243c8bd-e0bb-4d5d-9798-4a9f4181c85f.png" width="650px">
+
+
+
 
 
 ## pytorch code for speed up
@@ -46,7 +49,7 @@ training images is 1139 test image is 150
 
 ```Inference Latency (milliseconds) is 45.3539218902588 [ms]```
 
-<img src="https://user-images.githubusercontent.com/48679574/140451655-a702285e-e886-4bdc-9749-2ac4f13d4ab7.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/140451671-5ef18ba6-2a9c-4cfd-bc5c-677f3fa93a70.png" width="300px">
+<img src="https://user-images.githubusercontent.com/48679574/142752812-2606162d-2cdb-419b-b6e0-b2d07def95f0.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/142752813-9d69f009-a598-4f1b-8bac-efe908bc392e.png" width="300px">
 
 
 ## 4. Generator and Discriminator loss curve
