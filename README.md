@@ -29,7 +29,7 @@ torch.backends.cudnn.benchmark =True
 ```
 
 # Result
-## 1. cycleGAN with pyside ML GUI app
+## 1. cycleGAN with pyside ML GUI app on Mac(CPU)
 ```pythonn
 $ python3 Qtapp.py
 ```
@@ -44,7 +44,7 @@ training images is 1139 test image is 150
 <img src="https://user-images.githubusercontent.com/48679574/142752812-2606162d-2cdb-419b-b6e0-b2d07def95f0.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/142752813-9d69f009-a598-4f1b-8bac-efe908bc392e.png" width="300px">
 
 
-## 3. Prediction spped with ONNX format
+## 3. Prediction spped with ONNX format on Cuda
 <b>onnx inference speed</b>
 
 ```Inference Latency (milliseconds) is 8438.8799 [ms]```
@@ -61,6 +61,13 @@ training images is 1139 test image is 150
 <img src="https://user-images.githubusercontent.com/48679574/142752865-7a962b27-5c90-4d62-a44c-d36d3328e9b9.png" width="200px"><img src="https://user-images.githubusercontent.com/48679574/142752867-4d6a39bd-b919-4bdb-8ece-e5b1b12ea639.png" width="200px">
 
 
+
 # References
+## Pyside References
+- [ImageEditor_PyQt](https://github.com/koharite/ImageEditor_PyQt)
+- [QMainWindow](http://blawat2015.no-ip.com/~mieki256/diary/201610161.html)
+- [pyside Widget introductions](https://dftalk.jp/?p=20768)
+
+## Pytorch
 - [Tensorflow GPU, CUDA, CuDNNのバージョン早見表](https://qiita.com/chin_self_driving_car/items/f00af2dbd022b65c9068)
 - [PyTorchでの学習・推論を高速化するコツ集](https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587)
