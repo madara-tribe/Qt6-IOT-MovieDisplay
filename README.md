@@ -50,6 +50,7 @@ training images is 1139 test image is 150
 ```Inference Latency (milliseconds) is 8438.8799 [ms]```
 
 <b>Pytorch model inference speed</b>
+
 ```Inference Latency (milliseconds) is 45.3539218902588 [ms]```
 
 <img src="https://user-images.githubusercontent.com/48679574/142753020-b867513f-3c0e-4b3d-a75a-9b28fcc17407.png" width="400px">
