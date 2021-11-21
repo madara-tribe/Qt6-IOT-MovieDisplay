@@ -52,11 +52,12 @@ training images is 1139 test image is 150
 <b>Pytorch model inference speed</b>
 ```Inference Latency (milliseconds) is 45.3539218902588 [ms]```
 
+<img src="https://user-images.githubusercontent.com/48679574/142753020-b867513f-3c0e-4b3d-a75a-9b28fcc17407.png" width="400px">
 
 
 ## 4. Generator and Discriminator loss curve
 
-<img src="https://user-images.githubusercontent.com/48679574/142752865-7a962b27-5c90-4d62-a44c-d36d3328e9b9.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/142752867-4d6a39bd-b919-4bdb-8ece-e5b1b12ea639.png" width="400px">
+<img src="https://user-images.githubusercontent.com/48679574/142752865-7a962b27-5c90-4d62-a44c-d36d3328e9b9.png" width="200px"><img src="https://user-images.githubusercontent.com/48679574/142752867-4d6a39bd-b919-4bdb-8ece-e5b1b12ea639.png" width="200px">
 
 
 # References
