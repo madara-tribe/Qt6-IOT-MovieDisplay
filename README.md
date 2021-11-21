@@ -37,19 +37,21 @@ $ python3 Qtapp.py
 
 
 
-## 2. result : convrting hourse to zebra
+## 2. result : convrting hourse to zebra as torch and onnx
 training images is 1139 test image is 150
 <b>at 199 epoch</b>
 
-<img src="https://user-images.githubusercontent.com/48679574/139290914-1e7597dd-d408-4945-887d-cc2ccc772b88.png" width="1600px">
+<img src="https://user-images.githubusercontent.com/48679574/142752812-2606162d-2cdb-419b-b6e0-b2d07def95f0.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/142752813-9d69f009-a598-4f1b-8bac-efe908bc392e.png" width="300px">
 
 
-## 3. Result with ONNX format
-<b>hourse to zebra</b>
+## 3. Prediction spped with ONNX format
+<b>onnx inference speed</b>
 
+```Inference Latency (milliseconds) is 8438.8799 [ms]```
+
+<b>Pytorch model inference speed</b>
 ```Inference Latency (milliseconds) is 45.3539218902588 [ms]```
 
-<img src="https://user-images.githubusercontent.com/48679574/142752812-2606162d-2cdb-419b-b6e0-b2d07def95f0.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/142752813-9d69f009-a598-4f1b-8bac-efe908bc392e.png" width="300px">
 
 
 ## 4. Generator and Discriminator loss curve
