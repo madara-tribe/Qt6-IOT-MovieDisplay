@@ -33,8 +33,8 @@ torch.backends.cudnn.benchmark =True
 ```pythonn
 $ python3 Qtapp.py
 ```
-![2zebra](https://user-images.githubusercontent.com/48679574/139296110-7c2c3c5f-8937-43b8-a559-e3f8bbf1cbe6.gif)
 
+![qtapp](https://user-images.githubusercontent.com/48679574/142753049-7aa84817-1f04-4301-8b2c-62a19d844745.gif)
 
 
 ## 2. result : convrting hourse to zebra as torch and onnx
