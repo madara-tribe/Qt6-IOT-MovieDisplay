@@ -10,7 +10,7 @@
 ・ PySide6 6.2.0
 ```
 
-# abstract about cycleGAN
+# abstract about cycleGAN 
 cycle GAN mainly training horse to zebra and zebra to horse.
 <img src="https://user-images.githubusercontent.com/48679574/142752809-9243c8bd-e0bb-4d5d-9798-4a9f4181c85f.png" width="650px">
 
